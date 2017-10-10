@@ -107,11 +107,6 @@ table {
   margin: 3% 0 3% 1%;
 }
 
-.pics img {
-  width: 320px;
-  height: 210px;
-}
-
 .flex-container {
   display: flex;
   flex-wrap: wrap;
