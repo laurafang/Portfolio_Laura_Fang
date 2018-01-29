@@ -1,4 +1,4 @@
-# Udacity_Portfolio
+# Portfolio
 
 # Laura Fang
 
